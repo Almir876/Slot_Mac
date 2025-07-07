@@ -1,1 +1,0 @@
-([('base', '/Users/almiralam/Projects/SlotMac/dist/base', 'EXECUTABLE')],)
