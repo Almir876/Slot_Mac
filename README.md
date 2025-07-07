@@ -24,3 +24,10 @@ Install required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
+### Run the Game
+```bash
+python base.py
+```
+
+
